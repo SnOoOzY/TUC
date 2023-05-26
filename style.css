@@ -1,0 +1,77 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.front-page-logo {
+  width: 30%;
+}
+
+.front-page {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.main-page {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.topbar {
+  background-color: #ff7200;
+  width: 100%;
+}
+
+.topbar-links {
+  padding-left: 3%;
+  padding-right: 3%;
+  font-size: 20px;
+  color: black;
+}
+
+a::visited {
+  color: black;
+}
+
+.main-txt {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.main-txt-head {
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: #ff7200;
+  border-radius: 30px;
+  width: auto;
+}
+
+.aboutus {
+  height: auto;
+  padding: 4rem;
+  border-radius: 30px;
+  align-items: center;
+  background-color: #ff7200;
+  width: 40%;
+  margin-left: 27%;
+}
+
+.contacts {
+  align-items: center;
+  text-align: center;
+}
+
+.contact-mario {
+  width: 25%;
+}
+
+main-txt-list {
+  width: 50%;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.vest-button {
+  width: 20%;
+  background-color:  #ff7200;
+  outline-color: gray;
+}
